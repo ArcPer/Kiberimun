@@ -10,4 +10,4 @@ ___
  2) Информация поступающаяя от датчиков никак не должна изменяется и нарушается её целостность. 
 ## Архитектура умного дома 
 ___
-![image](https://user-images.githubusercontent.com/99412230/207873020-77c5f591-5dd8-44e9-892b-ce47ec1cf0ac.png)
+![image](https://user-images.githubusercontent.com/99412230/207922040-a7d7d018-afbe-44b1-bebc-71d8ce0d4f13.png)
